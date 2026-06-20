@@ -8,13 +8,12 @@ XMU 本科WISE班 部分课程的自整理学习资料。
 
 没有进行宣传，见到即是有缘。如果有帮助，点个star吧~
 
-## 课程目录
+## 目录
 
 | 文件夹 | 课程名称 
 | :--- | :--- |
-| `C-I II` | Calculus I & II  |
 | `CE` | Commercial English |
-| `DB` | Database | 
+| `DB` | Database System | 
 | `EE` | Experimental Economics | 
 | `EH` | Economic History | 
 | `HET` | History of Economic Thought | 
@@ -23,8 +22,8 @@ XMU 本科WISE班 部分课程的自整理学习资料。
 | `OR` | Operations Research | 
 | `PE` | Political Economy | 
 | `POA` | Principles of Accounting | 
-| `SX` | 思想道德与法治 | 
-| `TS` | Time Series | 
+| `SX` | 思修 | 
+| `TS` | Time Series Forecasting | 
 | `XG` | 习概 | 
 
 
