@@ -11,7 +11,7 @@ XMU 本科WISE班 部分课程的自整理学习资料。
 ## 课程目录
 
 | 文件夹 | 课程名称 
-| :--- | :--- | :--- |
+| :--- | :--- |
 | `C-I II` | Calculus I & II  |
 | `CE` | Commercial English |
 | `DB` | Database | 
