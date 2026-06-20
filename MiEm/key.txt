@@ -1,0 +1,10 @@
+- External validity, internal validity, scope of causal effect\
+- Backdoor criterion, unconfoundedness condition (conditional exchangeability)
+- Moderator (effect modifier), causal moderator, moderator confounding
+- Sharp RDD, fuzzy RDD
+- DID under block assignment 
+- Matching with and without replacement; propensity score matching
+- ATE, ATT, LATE, HTE
+- IV: 2SLS, relevance and exclusion restrictions, complier, always-taker, never-taker, defier.
+- Bias-variance tradeoff
+- FWL and DML
